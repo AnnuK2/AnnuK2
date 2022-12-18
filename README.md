@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">ANNU Kumari</h1>
 <h3 align="center">A passionate tech entho</h3>
 <img src="https://media.licdn.com/dms/image/D4D16AQE-Vh7cSZ_0vA/profile-displaybackgroundimage-shrink_350_1400/0/1666538999157?e=1676505600&v=beta&t=i3zFrIEYBjHJLPDSgwEZD2m5enbu6ArUyIkXkT906hI">
+ <img src="https://source.unsplash.com/1600x800/?coding" alt="error loading image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annuk2&label=Profile%20views&color=0e75b6&style=flat" alt="annuk2" /> </p>
 
